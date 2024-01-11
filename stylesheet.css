@@ -1,0 +1,33 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.main-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Two equal columns */
+    gap: 100px; /* Space between columns */
+}
+
+.intro-section {
+    /* Styles for the introduction section */
+}
+
+.image-section {
+    /* Styles for the image section */
+}
+
+.see-my-work {
+    display: flex;
+    align-items: center;
+}
+
+.arrow {
+    /* Style for the arrow image */
+}
+
+.years-experience {
+    /* Style for the experience text */
+}
